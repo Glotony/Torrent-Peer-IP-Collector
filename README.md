@@ -55,10 +55,10 @@ A small Python utility that connects to the qBittorrent Web API, checks the torr
 
 ## Usage
 
-Run the script (replace `script.py` with the actual filename if it differs):
+Run the script Python App.py
 
 ```bash
-python script.py
+python App.py
 ```
 
 The program logs in, retrieves the current torrent list, collects the peer IP addresses exposed by the API, and saves any results. It then repeats this process continuously. Press **Ctrl+C** to stop it.
