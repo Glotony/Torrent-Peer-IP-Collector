@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Scraped data
+/scraped_ips/
+
+# Editor settings
+.vscode/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
